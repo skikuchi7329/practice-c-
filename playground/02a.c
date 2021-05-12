@@ -2,5 +2,5 @@
 int main()
 {
     printf("Hello, world.¥n");
-    retrun 0;
+    return 0;
 }
