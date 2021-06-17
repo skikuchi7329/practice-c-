@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 {
-  int i, j;
-  int pl, mi, mu, di;
+  double i, j;
+  double pl, mi, mu, di;
   i = 50.;
   j = 20.;
   pl = i + j;
