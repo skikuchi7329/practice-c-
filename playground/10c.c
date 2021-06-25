@@ -10,7 +10,7 @@ int main(void)
     s1 += a[i];
   }
   printf("合計 s1 = %d¥n", s1);
-  for (i = 0; I < 5; i++) {
+  for (i = 0; i < 5; i++) {
     s2 += b[i];
   }
   printf("合計 s2 = %d¥n", s2);
